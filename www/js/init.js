@@ -23,7 +23,6 @@ function downloadBusStopInfo(){
         success: function(result){
             resultLen+= result.value.length;
             if(result.value.length !== 0){
-                console.log("Info");
                 allBusStops = allBusStops.concat(result.value);
                 downloadBusStopInfo();    
             }
