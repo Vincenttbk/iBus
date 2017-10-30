@@ -1,5 +1,5 @@
-accountKey = "ROKeG8zKRHS8MpEmngfdcg==";
-uniqueUserID = "a2ea8cdf-4e28-4e9d-b1ba-2fa4de20f87c";
+accountKey = "Key here";
+uniqueUserID = "Key here";
 var currLat = "";
 var currLon = "";
 var resultLen = 0;
